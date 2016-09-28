@@ -1,5 +1,11 @@
 This is free and unencumbered software released into the public domain.
 
+Caveat: The code in this repository is intentionally terrible, and really
+should never be used as part of any serious application. You are completely
+welcome to ignore this warning and incorporate these samples into your
+business-critical systems at your own (ill-advised) risk.
+You have been warned.
+
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
